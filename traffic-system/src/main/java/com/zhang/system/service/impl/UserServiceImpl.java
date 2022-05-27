@@ -101,6 +101,16 @@ public class UserServiceImpl implements UserService {
         userInfo.setUname(userEntity.getUname());
         userInfo.setUpass(userEntity.getUpass());
         userInfo.setUphone(userEntity.getUphone());
+
+
+
+        System.out.println("nihao");
+
+
+
         return userInfo;
+
+
+
     }
 }
