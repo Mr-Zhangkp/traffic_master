@@ -1,0 +1,8 @@
+# 应用名称
+spring:
+  application:
+    name: traffic-system
+profiles:
+  active: dev
+
+
